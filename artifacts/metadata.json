@@ -1,0 +1,43 @@
+{
+  "trained": true,
+  "utilisable": true,
+  "min_samples": 30,
+  "n_samples": 90,
+  "n_demo": 90,
+  "n_real": 0,
+  "trained_at": "2026-10-18T14:41:14+00:00",
+  "version": "20261018154117",
+  "mae_minutes": 24.7,
+  "mae_baseline_minutes": 55.7,
+  "r2_cv": 0.741,
+  "categories": {
+    "categorie_vetement": [
+      "autre",
+      "chemise",
+      "costume",
+      "jean",
+      "jupe",
+      "manteau",
+      "pantalon",
+      "robe",
+      "tshirt_pull",
+      "veste"
+    ],
+    "type_intervention": [
+      "bouton",
+      "couture",
+      "dechirure",
+      "doublure",
+      "fermeture",
+      "ourlet",
+      "retouche_taille",
+      "transformation_coupe",
+      "upcycling"
+    ],
+    "type_demande": [
+      "reparation",
+      "transformation"
+    ]
+  },
+  "message": "Modèle RandomForest entraîné localement (validation croisée 5 plis)."
+}

@@ -1,0 +1,471 @@
+{
+  "cat_int|autre|bouton": {
+    "n": 2,
+    "median": 17.5,
+    "p25": 16.25,
+    "p75": 18.75,
+    "demo": true
+  },
+  "cat_int|autre|fermeture": {
+    "n": 3,
+    "median": 80.0,
+    "p25": 75.0,
+    "p75": 82.5,
+    "demo": true
+  },
+  "cat_int|autre|ourlet": {
+    "n": 3,
+    "median": 65.0,
+    "p25": 52.5,
+    "p75": 65.0,
+    "demo": true
+  },
+  "cat_int|autre|transformation_coupe": {
+    "n": 1,
+    "median": 200.0,
+    "p25": 200.0,
+    "p75": 200.0,
+    "demo": true
+  },
+  "cat_int|chemise|dechirure": {
+    "n": 1,
+    "median": 50.0,
+    "p25": 50.0,
+    "p75": 50.0,
+    "demo": true
+  },
+  "cat_int|chemise|doublure": {
+    "n": 1,
+    "median": 65.0,
+    "p25": 65.0,
+    "p75": 65.0,
+    "demo": true
+  },
+  "cat_int|chemise|fermeture": {
+    "n": 1,
+    "median": 115.0,
+    "p25": 115.0,
+    "p75": 115.0,
+    "demo": true
+  },
+  "cat_int|chemise|ourlet": {
+    "n": 2,
+    "median": 55.0,
+    "p25": 52.5,
+    "p75": 57.5,
+    "demo": true
+  },
+  "cat_int|costume|doublure": {
+    "n": 2,
+    "median": 162.5,
+    "p25": 143.75,
+    "p75": 181.25,
+    "demo": true
+  },
+  "cat_int|costume|ourlet": {
+    "n": 1,
+    "median": 45.0,
+    "p25": 45.0,
+    "p75": 45.0,
+    "demo": true
+  },
+  "cat_int|costume|transformation_coupe": {
+    "n": 3,
+    "median": 245.0,
+    "p25": 215.0,
+    "p75": 247.5,
+    "demo": true
+  },
+  "cat_int|costume|upcycling": {
+    "n": 1,
+    "median": 225.0,
+    "p25": 225.0,
+    "p75": 225.0,
+    "demo": true
+  },
+  "cat_int|jean|bouton": {
+    "n": 1,
+    "median": 25.0,
+    "p25": 25.0,
+    "p75": 25.0,
+    "demo": true
+  },
+  "cat_int|jean|couture": {
+    "n": 1,
+    "median": 55.0,
+    "p25": 55.0,
+    "p75": 55.0,
+    "demo": true
+  },
+  "cat_int|jean|dechirure": {
+    "n": 1,
+    "median": 125.0,
+    "p25": 125.0,
+    "p75": 125.0,
+    "demo": true
+  },
+  "cat_int|jean|ourlet": {
+    "n": 1,
+    "median": 35.0,
+    "p25": 35.0,
+    "p75": 35.0,
+    "demo": true
+  },
+  "cat_int|jean|retouche_taille": {
+    "n": 2,
+    "median": 150.0,
+    "p25": 137.5,
+    "p75": 162.5,
+    "demo": true
+  },
+  "cat_int|jean|transformation_coupe": {
+    "n": 1,
+    "median": 200.0,
+    "p25": 200.0,
+    "p75": 200.0,
+    "demo": true
+  },
+  "cat_int|jupe|bouton": {
+    "n": 1,
+    "median": 15.0,
+    "p25": 15.0,
+    "p75": 15.0,
+    "demo": true
+  },
+  "cat_int|jupe|dechirure": {
+    "n": 1,
+    "median": 40.0,
+    "p25": 40.0,
+    "p75": 40.0,
+    "demo": true
+  },
+  "cat_int|jupe|doublure": {
+    "n": 2,
+    "median": 107.5,
+    "p25": 106.25,
+    "p75": 108.75,
+    "demo": true
+  },
+  "cat_int|jupe|fermeture": {
+    "n": 3,
+    "median": 65.0,
+    "p25": 60.0,
+    "p75": 67.5,
+    "demo": true
+  },
+  "cat_int|jupe|ourlet": {
+    "n": 2,
+    "median": 35.0,
+    "p25": 27.5,
+    "p75": 42.5,
+    "demo": true
+  },
+  "cat_int|jupe|retouche_taille": {
+    "n": 3,
+    "median": 105.0,
+    "p25": 100.0,
+    "p75": 117.5,
+    "demo": true
+  },
+  "cat_int|jupe|upcycling": {
+    "n": 1,
+    "median": 195.0,
+    "p25": 195.0,
+    "p75": 195.0,
+    "demo": true
+  },
+  "cat_int|manteau|bouton": {
+    "n": 1,
+    "median": 25.0,
+    "p25": 25.0,
+    "p75": 25.0,
+    "demo": true
+  },
+  "cat_int|manteau|couture": {
+    "n": 2,
+    "median": 65.0,
+    "p25": 60.0,
+    "p75": 70.0,
+    "demo": true
+  },
+  "cat_int|manteau|dechirure": {
+    "n": 2,
+    "median": 100.0,
+    "p25": 80.0,
+    "p75": 120.0,
+    "demo": true
+  },
+  "cat_int|manteau|fermeture": {
+    "n": 1,
+    "median": 70.0,
+    "p25": 70.0,
+    "p75": 70.0,
+    "demo": true
+  },
+  "cat_int|manteau|ourlet": {
+    "n": 1,
+    "median": 60.0,
+    "p25": 60.0,
+    "p75": 60.0,
+    "demo": true
+  },
+  "cat_int|manteau|retouche_taille": {
+    "n": 2,
+    "median": 140.0,
+    "p25": 137.5,
+    "p75": 142.5,
+    "demo": true
+  },
+  "cat_int|manteau|upcycling": {
+    "n": 1,
+    "median": 440.0,
+    "p25": 440.0,
+    "p75": 440.0,
+    "demo": true
+  },
+  "cat_int|pantalon|couture": {
+    "n": 1,
+    "median": 55.0,
+    "p25": 55.0,
+    "p75": 55.0,
+    "demo": true
+  },
+  "cat_int|pantalon|doublure": {
+    "n": 1,
+    "median": 150.0,
+    "p25": 150.0,
+    "p75": 150.0,
+    "demo": true
+  },
+  "cat_int|pantalon|fermeture": {
+    "n": 1,
+    "median": 60.0,
+    "p25": 60.0,
+    "p75": 60.0,
+    "demo": true
+  },
+  "cat_int|pantalon|retouche_taille": {
+    "n": 2,
+    "median": 82.5,
+    "p25": 76.25,
+    "p75": 88.75,
+    "demo": true
+  },
+  "cat_int|pantalon|transformation_coupe": {
+    "n": 1,
+    "median": 170.0,
+    "p25": 170.0,
+    "p75": 170.0,
+    "demo": true
+  },
+  "cat_int|pantalon|upcycling": {
+    "n": 1,
+    "median": 210.0,
+    "p25": 210.0,
+    "p75": 210.0,
+    "demo": true
+  },
+  "cat_int|robe|bouton": {
+    "n": 1,
+    "median": 25.0,
+    "p25": 25.0,
+    "p75": 25.0,
+    "demo": true
+  },
+  "cat_int|robe|couture": {
+    "n": 2,
+    "median": 47.5,
+    "p25": 41.25,
+    "p75": 53.75,
+    "demo": true
+  },
+  "cat_int|robe|dechirure": {
+    "n": 1,
+    "median": 55.0,
+    "p25": 55.0,
+    "p75": 55.0,
+    "demo": true
+  },
+  "cat_int|robe|ourlet": {
+    "n": 1,
+    "median": 55.0,
+    "p25": 55.0,
+    "p75": 55.0,
+    "demo": true
+  },
+  "cat_int|robe|retouche_taille": {
+    "n": 2,
+    "median": 147.5,
+    "p25": 136.25,
+    "p75": 158.75,
+    "demo": true
+  },
+  "cat_int|robe|transformation_coupe": {
+    "n": 1,
+    "median": 210.0,
+    "p25": 210.0,
+    "p75": 210.0,
+    "demo": true
+  },
+  "cat_int|robe|upcycling": {
+    "n": 1,
+    "median": 335.0,
+    "p25": 335.0,
+    "p75": 335.0,
+    "demo": true
+  },
+  "cat_int|tshirt_pull|dechirure": {
+    "n": 3,
+    "median": 60.0,
+    "p25": 47.5,
+    "p75": 70.0,
+    "demo": true
+  },
+  "cat_int|tshirt_pull|doublure": {
+    "n": 1,
+    "median": 65.0,
+    "p25": 65.0,
+    "p75": 65.0,
+    "demo": true
+  },
+  "cat_int|tshirt_pull|fermeture": {
+    "n": 1,
+    "median": 45.0,
+    "p25": 45.0,
+    "p75": 45.0,
+    "demo": true
+  },
+  "cat_int|tshirt_pull|ourlet": {
+    "n": 2,
+    "median": 27.5,
+    "p25": 26.25,
+    "p75": 28.75,
+    "demo": true
+  },
+  "cat_int|tshirt_pull|transformation_coupe": {
+    "n": 1,
+    "median": 110.0,
+    "p25": 110.0,
+    "p75": 110.0,
+    "demo": true
+  },
+  "cat_int|tshirt_pull|upcycling": {
+    "n": 1,
+    "median": 100.0,
+    "p25": 100.0,
+    "p75": 100.0,
+    "demo": true
+  },
+  "cat_int|veste|bouton": {
+    "n": 3,
+    "median": 20.0,
+    "p25": 17.5,
+    "p75": 30.0,
+    "demo": true
+  },
+  "cat_int|veste|dechirure": {
+    "n": 3,
+    "median": 60.0,
+    "p25": 52.5,
+    "p75": 85.0,
+    "demo": true
+  },
+  "cat_int|veste|doublure": {
+    "n": 2,
+    "median": 92.5,
+    "p25": 78.75,
+    "p75": 106.25,
+    "demo": true
+  },
+  "cat_int|veste|fermeture": {
+    "n": 1,
+    "median": 85.0,
+    "p25": 85.0,
+    "p75": 85.0,
+    "demo": true
+  },
+  "cat_int|veste|ourlet": {
+    "n": 1,
+    "median": 25.0,
+    "p25": 25.0,
+    "p75": 25.0,
+    "demo": true
+  },
+  "cat_int|veste|retouche_taille": {
+    "n": 2,
+    "median": 125.0,
+    "p25": 102.5,
+    "p75": 147.5,
+    "demo": true
+  },
+  "cat_int|veste|transformation_coupe": {
+    "n": 2,
+    "median": 295.0,
+    "p25": 250.0,
+    "p75": 340.0,
+    "demo": true
+  },
+  "int|bouton": {
+    "n": 9,
+    "median": 20.0,
+    "p25": 15.0,
+    "p75": 25.0,
+    "demo": true
+  },
+  "int|couture": {
+    "n": 6,
+    "median": 55.0,
+    "p25": 55.0,
+    "p75": 58.75,
+    "demo": true
+  },
+  "int|dechirure": {
+    "n": 12,
+    "median": 60.0,
+    "p25": 48.75,
+    "p75": 87.5,
+    "demo": true
+  },
+  "int|doublure": {
+    "n": 9,
+    "median": 110.0,
+    "p25": 65.0,
+    "p75": 125.0,
+    "demo": true
+  },
+  "int|fermeture": {
+    "n": 11,
+    "median": 70.0,
+    "p25": 62.5,
+    "p75": 82.5,
+    "demo": true
+  },
+  "int|ourlet": {
+    "n": 14,
+    "median": 47.5,
+    "p25": 31.25,
+    "p75": 58.75,
+    "demo": true
+  },
+  "int|retouche_taille": {
+    "n": 13,
+    "median": 125.0,
+    "p25": 95.0,
+    "p75": 145.0,
+    "demo": true
+  },
+  "int|transformation_coupe": {
+    "n": 10,
+    "median": 202.5,
+    "p25": 188.75,
+    "p75": 236.25,
+    "demo": true
+  },
+  "int|upcycling": {
+    "n": 6,
+    "median": 217.5,
+    "p25": 198.75,
+    "p75": 307.5,
+    "demo": true
+  }
+}
